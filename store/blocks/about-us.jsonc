@@ -53,7 +53,7 @@
   },
   "rich-text#home2": {
     "props": {
-      "text": "Área do conteúdo da tab-list.item com  tabId = electronics",
+      "text": "Área do conteúdo da tab-list.item com  tabId = electronicss",
       "textPosition": "CENTER",
       "font": "t-heading-3"
     }
